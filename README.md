@@ -13,6 +13,7 @@ You are an OSINT analyst. Everything below was collected from social media.
 | 2 | Facebook: The Passengers | Which seats were affected? |
 | 3 | The Contractor | What made the attack possible? |
 | 4 | Man on the Path | How was it done, was the API hacked? |
+| 5 | Off the Map | (Geolocation)
 
 Each solved chapter gives a vault key that opens `chapterN/vault.json` with one
 fragment of the boarding pass code.
