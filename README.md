@@ -134,10 +134,10 @@ tls_verify: false
 xml_signature_check: false
 dns: 10.0.0.53
 ```
-`.env.bak` (2c10aa9, decoy)
+`.env.bak` (2c10aa9)
 ```
 API_KEY=sk_live_FAKE_000000000000
-FLAG_VAULT_PASS=<DECOY_PASS>
+FLAG_VAULT_PASS=<PASS>
 ```
 Gateway error sample
 ```
